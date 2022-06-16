@@ -1,4 +1,4 @@
-# Web Application - https://foodie-xi.vercel.app/
+# Web Application - https://foodie-adityak1206.vercel.app/
 # Getting Started with Create React App 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
